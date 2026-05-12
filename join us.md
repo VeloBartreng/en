@@ -1,5 +1,5 @@
 ---
 title: "Join us"
-order: 5
+order: 6
 in_menu: true
 ---
