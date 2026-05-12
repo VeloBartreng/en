@@ -3,4 +3,4 @@ title: "Map"
 order: 3
 in_menu: true
 ---
-[Map](https://framacarte.org/en/map/bartreng_232640) 
+On this [Map](https://framacarte.org/en/map/bartreng_232640) you can mark good and bad cycling infrastructure in Bertrange. With your help we can inform the commune about the most pressing cycling problems. 
