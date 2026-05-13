@@ -19,6 +19,6 @@ Here in the Screenshot you get an overview where there are Veloh-stations exist.
 
 #### Bikebox
 
-You are multimodal? Then you possibly need to lock your bike at a trainsation. At the bikeboxes you can secure you bike safely in a secured box. The service is free to use, you only have to get access to it via this [link](https://www.cfl.lu/en-gb/withoutbarrier/detail/bikebox).
+You are **multimodal**? Then you possibly need to lock your bike at a trainsation. At the **bikeboxes** you can **secure you bike safely** in a secured box. The service is free to use, you only have to get access to it via this [link](https://www.cfl.lu/en-gb/withoutbarrier/detail/bikebox).
 
 ![Bikebox]({% link images/bikebox3-scaled-1459111211.jpg %}) 
