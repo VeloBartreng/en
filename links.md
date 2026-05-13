@@ -5,7 +5,7 @@ in_menu: true
 ---
 Here we want to share with use some useful links and information to make your cycling life a bit easier!
 
-# Veloh
+### Veloh
 
 You **don't have a bike or want to hop on one spontaneously?** then [Veloh](https://myveloh.lu/9) is perfect for you. 
 
