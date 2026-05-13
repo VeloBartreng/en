@@ -14,3 +14,5 @@ You can buy a yearly subscription for **18 Euros/Year**. Then every borrow you c
 Here in the Screenshot you get an overview where there are Veloh-stations exist.
 
 ![Veloh Map]({% link images/Screenshot from 2026-05-13 18-30-50.png %}) 
+
+Bonus: Our commune is even refunding you the yearly subscription. More info [here](https://www.bertrange.lu/fr/demarches-administratives/subsides-allocations). 
