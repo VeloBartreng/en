@@ -1,6 +1,6 @@
 ---
 title: "Events"
-order: 4
+order: 5
 in_menu: true
 ---
 06.06.2026 Velo-Manif in the City - organized by ProVelo
