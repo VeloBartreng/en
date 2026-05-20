@@ -9,6 +9,8 @@ in_menu: true
 
 07.06.2026 [Kids on Bike](https://www.facebook.com/share/p/1NSN8YPXji/) in Bertrange
 
+![Kids on Bike 2026]({% link images/signal-2026-05-20-120932_004.jpeg %})
+
 #### Other Events
 
 An overview of majority of cycling events in luxembourg can be found [here](https://velo.lu)
